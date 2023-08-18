@@ -22,14 +22,24 @@ title: Portfolio
 subtitle: "My Projects"
 name: "Miguel Rocha"
 email: miguelasrocha@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer student, who likes to learn new technologies and apply his best knowledge into the projects heis trusted with. I am always looking for ways to improve the products that I am working on. I recently completed my bachelor'sdegree in computer science and software engineering. Now, I am eager to take my passion further by pursuing amaster's degree, also in computer science and software engineering
-logo: "/assets/images/logo.jpg"
+description: ""
+
+author:
+  name: "Miguel Rocha"
+  avatar: "/assets/images/logo.jpg"
+  bio: "Software engineer student, who likes to learn new technologies and apply his best knowledge into the projects heis trusted with."
+  location: "Lisbon, Portugal"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/MiguelRocha2001"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://MiguelRocha2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  MiguelRocha2001
 repository: "MiguelRocha2001/MiguelRocha2001.github.io"
+
+timezone: Europe/Lisbon
 
 # Build settings
 theme: minimal-mistakes-jekyll
@@ -60,10 +70,15 @@ plugins:
 include: ["_pages"]
 
 defaults:
-  # _pages
+  # _posts
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
