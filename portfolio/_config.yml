@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Portfolio
-subtitle: "My Projects"
+title: "Miguel Rocha"
+subtitle: "Some of my projects and skills"
 name: "Miguel Rocha"
 email: miguelasrocha@gmail.com
 description: ""
