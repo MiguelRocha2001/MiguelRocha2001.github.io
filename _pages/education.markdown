@@ -9,7 +9,7 @@ header:
   #og_image: /weekend_stories_pics/2020/2010_Berlin/2010 Berlin 7578-1v (02. Okt. 2020).jpg
   caption: "Beautifull books"
 #excerpt: "This post has an overlay header image"
-tagline: "Shcools that I have studied"
+tagline: "Schools that I have studied"
 
 ---
 
