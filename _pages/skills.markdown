@@ -5,9 +5,9 @@ permalink: /skills/
 collection: my-collection
 
 header:
-  overlay_image: /assets/images/martin-adams-pTCcJSBOTxY-unsplash.jpg
+  overlay_image: /assets/images/code_programming_symbols_140997_2560x1080.jpg
   #og_image: /weekend_stories_pics/2020/2010_Berlin/2010 Berlin 7578-1v (02. Okt. 2020).jpg
-  caption: "Beautifull city"
+  caption: "Aesthetic code"
 #excerpt: "This post has an overlay header image"
 tagline: "Check out some of my skills"
 ---

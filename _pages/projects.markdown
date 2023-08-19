@@ -4,9 +4,9 @@ title: University And My Projects
 permalink: /projects/
 collection: Projects
 header:
-  overlay_image: /assets/images/code_programming_symbols_140997_2560x1080.jpg
+  overlay_image: /assets/images/daniel-mccullough--FPFq_trr2Y-unsplash.jpg
   #og_image: /weekend_stories_pics/2020/2010_Berlin/2010 Berlin 7578-1v (02. Okt. 2020).jpg
-  caption: "Aesthetic code"
+  caption: "Aesthetic planning"
 #excerpt: "This post has an overlay header image"
 tagline: "Check out some of my past projects"
 ---
