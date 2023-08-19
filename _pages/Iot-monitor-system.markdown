@@ -10,7 +10,7 @@ header:
 tagline: "Check out some of my past projects"
 ---
 
-## PS-Monitor-IoT-System
+## Overview
 
 This project consists in the creation of a smart and automated system, using IoT technology, to enhance theefficiency, accuracy and safety in the pH industrial control process. By incorporating sensors, we can detectproblems before they lead to costly downtime or safety hazards.The sensors collect data relative to the neutralization system’s environment. All this data is sent to a centralserver, and through real-time data analysis, it identifies if the neutralization system is not working optimally.
 {: style="text-align: left;"}

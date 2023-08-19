@@ -13,6 +13,4 @@ tagline: "Check out some of my past projects"
 
 - [IoT Monitor System](/iot-monitor-system/)
 - [CovidStats](/covid-stats/)
-- [Battleships]()
-- [AI-Assigments]()
-- [battleships-g26]()
+- More coming soon...
