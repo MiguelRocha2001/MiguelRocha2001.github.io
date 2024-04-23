@@ -12,26 +12,26 @@ header:
 tagline: "Check out some of my skills"
 ---
 
-### Frontend Development
+# Frontend Development
 CSS / HTML / Webpack / React / Material UI / Bootstrap
 
-### Backend Development
+# Backend Development
 MQTT / Nginx / HTTP / Express.js / Spring / HiveMQ 
 
-### HardwareIOT
+# HardwareIOT
 (microcontrollers) / ESP / Sensors / Eletronics
 
-### Programming Languages
+# Programming Languages
 Java / Assembly / Kotlin / JavaScript / TypeScript / C++ / C Sharp / Python / C / Prolog 
 
-### Tools, Technologies and Operating Systems
+# Tools, Technologies and Operating Systems
 Github / Linux / Docker / NGINX / Google Cloud Platform / Jetpack Compose / Android / LaTeX / Visual StudioCode / Intellij / Git 
 
-### Database & Cloud
+# Database & Cloud
 SQL Server / Google Cloud / MongoDB / PostgresSQL / Elasticsearch / Firestore / NodeJS 
 
-### Fundamentals
+# Fundamentals
 Cloud Computing / RESTful APIs / Computer Security / Algorithms and Data Structures / Computer Networks / Systems Virtualization Techniques / Object-Oriented Programming / Languages and Managed Runtimes / MobileProgramming / Concurrent Programming / Functional Programming 
 
-### AI
+# AI
 Genetic Algorithms / Neural Networks / AI search algorithms

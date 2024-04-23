@@ -84,3 +84,17 @@ defaults:
       share: true
       related: true
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true

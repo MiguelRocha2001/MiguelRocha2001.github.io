@@ -3,7 +3,7 @@ main:
     url: /education/
   - title: "Work Experience"
     url: /work-experience/
-  - title: "Projects"
-    url: /projects/
   - title: "Skills"
     url: /skills/
+  - title: "Portfolio"
+    url: /portfolio/

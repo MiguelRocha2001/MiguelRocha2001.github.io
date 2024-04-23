@@ -13,11 +13,23 @@ tagline: "Shcools that I have studied"
 
 ---
 
-# ISEL
+# Instituto Superior Técnico, Universidade de Lisboa [ 09/2023 – Current ]
+
+- Subject: Master of Science - MSc, Computer Science and Engineering
+- Date: 09/2023 - Current
+- City: Lisboa
+- Country: Portugal
+
+<figure>
+  <img src="/assets/images/ist.jpg" alt="this is a placeholder image">
+  <figcaption>Instituto Superior Técnico, Universidade de Lisboa</figcaption>
+</figure>
+
+# Instituto Superior de Engenharia de Lisboa, IPL [ 09/2019 – 18/07/2023 ]
 
 - Subject: Bachelor's Degree in Computer Science and Software Engineering
 - Date: 09/2019 - 07/2023
-- City: Lisboa 
+- City: Lisboa
 - Country: Portugal 
 - Final grade: 16 
 

@@ -36,3 +36,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Costumn
 gem "minimal-mistakes-jekyll"
+
+gem 'webrick'

@@ -21,6 +21,6 @@ tagline: "See my professional experience"
 - [Website](https://www.accenture.com/pt-pt)
 
 <figure>
-  <img src="/assets/images/Accenture-NYC-2021-06-alt.jpg" alt="this is a placeholder image">
-  <figcaption>Instituto Superior de Engenharia de Lisboa</figcaption>
+  <img src="/assets/images/Accenture-Conheca-Portugal-Hero-6974x4717.webp" alt="this is a placeholder image">
+  <figcaption>Accenture, Lisbon premisses</figcaption>
 </figure>
