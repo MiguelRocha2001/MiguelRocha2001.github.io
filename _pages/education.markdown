@@ -6,47 +6,47 @@ collection: my-collection
 
 header:
   overlay_image: /assets/images/books.jpeg
-  #og_image: /weekend_stories_pics/2020/2010_Berlin/2010 Berlin 7578-1v (02. Okt. 2020).jpg
-  caption: "Beautifull books"
-#excerpt: "This post has an overlay header image"
-tagline: "Shcools that I have studied"
+  caption: "Beautiful books"
+tagline: "Schools that I have studied"
 
 ---
 
-# Instituto Superior Técnico, Universidade de Lisboa [ 09/2023 – Current ]
+<style>
+.education-image {
+  width: 100%;
+  height: 300px; /* Set the height to ensure all images have the same height */
+  object-fit: cover; /* Crop the images while maintaining aspect ratio */
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+</style>
 
-- Subject: Master of Science - MSc, Computer Science and Engineering
-- Date: 09/2023 - Current
-- City: Lisboa
-- Country: Portugal
+## Instituto Superior Técnico, Universidade de Lisboa [ 09/2023 – Current ]
 
-<figure>
-  <img src="/assets/images/ist.jpg" alt="this is a placeholder image">
-  <figcaption style="font-style: italic;">Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal</figcaption>
-</figure>
+- **Subject:** Master of Science - MSc, Computer Science and Engineering
+- **Date:** 09/2023 - Current
+- **City:** Lisbon
+- **Country:** Portugal
 
-# Instituto Superior de Engenharia de Lisboa, IPL [ 09/2019 – 18/07/2023 ]
+![Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal](/assets/images/ist.jpg){: .education-image}
 
-- Subject: Bachelor's Degree in Computer Science and Software Engineering
-- Date: 09/2019 - 07/2023
-- City: Lisboa
-- Country: Portugal 
-- Final grade: 16 
+## Instituto Superior de Engenharia de Lisboa, IPL [ 09/2019 – 18/07/2023 ]
 
-<figure>
-  <img src="/assets/images/isel_01_960.jpg" alt="this is a placeholder image">
-  <figcaption style="font-style: italic;">Instituto Superior de Engenharia de Lisboa, Lisbon, Portugal</figcaption>
-</figure>
+- **Subject:** Bachelor's Degree in Computer Science and Software Engineering
+- **Date:** 09/2019 - 07/2023
+- **City:** Lisbon
+- **Country:** Portugal 
+- **Final grade:** 16 
 
-# Escola Secundária António Damásio
+![Instituto Superior de Engenharia de Lisboa, Lisbon, Portugal](/assets/images/isel_01_960.jpg){: .education-image}
 
-- Subject: Cientifco-Humanistico de Ciências e Tecnologia
-- Date: 09/2016 - 09/2019
-- City: Lisboa 
-- Country: Portugal 
-- Final grade: 15
+## Escola Secundária António Damásio
 
-<figure>
-  <img src="/assets/images/EscolaAntonioDamasio_DE_10_2013-037.jpg" alt="this is a placeholder image">
-  <figcaption style="font-style: italic;">Escola Secundária António Damásio, Lisbon, Portugal</figcaption>
-</figure>
+- **Subject:** Cientifco-Humanistico de Ciências e Tecnologia
+- **Date:** 09/2016 - 09/2019
+- **City:** Lisbon 
+- **Country:** Portugal 
+- **Final grade:** 15
+
+![Escola Secundária António Damásio, Lisbon, Portugal](/assets/images/EscolaAntonioDamasio_DE_10_2013-037.jpg){: .education-image}

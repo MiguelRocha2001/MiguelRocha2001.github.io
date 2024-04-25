@@ -6,21 +6,27 @@ collection: my-collection
 
 header:
   overlay_image: /assets/images/mimi-thian-5ZnS3wK6sUg-unsplash.jpg
-  #og_image: /weekend_stories_pics/2020/2010_Berlin/2010 Berlin 7578-1v (02. Okt. 2020).jpg
-  caption: ""
-#excerpt: "This post has an overlay header image"
 tagline: "See my professional experience"
+
 ---
+
+<style>
+.education-image {
+  width: 100%;
+  height: 300px; /* Set the height to ensure all images have the same height */
+  object-fit: cover; /* Crop the images while maintaining aspect ratio */
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+</style>
 
 # Summer Internship at Accenture
 
-- Occupation: Software Developer Intern
-- Date: 07/2023 - 08/2023
-- City: Lisbon
-- Country: Portugal
+- **Occupation:** Software Developer Intern
+- **Date:** 07/2023 - 08/2023
+- **City:** Lisbon
+- **Country:** Portugal
 - [Website](https://www.accenture.com/pt-pt)
 
-<figure>
-  <img src="/assets/images/Accenture-Plc_banner-01.jpg" alt="this is a placeholder image">
-  <figcaption style="font-style: italic;">Accenture Banner</figcaption>
-</figure>
+![Accenture Banner](/assets/images/Accenture-Plc_banner-01.jpg){: .work-experience-image}
