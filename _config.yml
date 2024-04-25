@@ -27,7 +27,7 @@ description: ""
 author:
   name: "Miguel Rocha"
   avatar: "/assets/images/logo.jpg"
-  bio: "Currently taking a major at Instituto Superior Técnico in Computer Science and Engineering."
+  bio: "Why are we still here? Just to suffer? Every night, I can feel my leg... And my arm... even my fingers... The body I've lost... the comrades I've lost... won't stop hurting... It's like they're all still there. You feel it, too, don't you? I'm gonna make them give back our past!"
   location: "Lisbon, Portugal"
   links:
     - label: "GitHub"
@@ -44,7 +44,7 @@ timezone: Europe/Lisbon
 # Build settings
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
