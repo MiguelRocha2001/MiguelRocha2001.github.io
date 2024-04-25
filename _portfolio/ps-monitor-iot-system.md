@@ -1,6 +1,6 @@
 ---
 title: "PS-Monitor-IoT-System"
-excerpt: "Insert here a descrioption."
+excerpt: "This project consists of creating a smart and automated system using IoT technology to enhance efficiency, accuracy, and safety in the pH industrial control process."
 header:
   image: /assets/images/o-que-e-hardware-ram-1-.jpg
   teaser: assets/images/o-que-e-hardware-ram-1-.jpg
@@ -30,10 +30,6 @@ The system is composed of the following components:
   <figcaption style="font-style: italic;">System Overview Diagram</figcaption>
 </figure>
 
-**Notice:** This project was evaluated as 18/20.
-{: .notice--success}
-
-[See on github](https://github.com/MiguelRocha2001/PS-Monitor-IoT-System){: .btn .btn--info}
 
 ## Hardware
 
@@ -65,3 +61,8 @@ The system uses Docker technology to deploy the backend and the web application.
 
 ### Demo
 {% include video id="3nySVzwPdcc" provider="youtube" %}
+
+**Notice:** This project was evaluated as 18/20.
+{: .notice--success}
+
+[See on github](https://github.com/MiguelRocha2001/PS-Monitor-IoT-System){: .btn .btn--info}

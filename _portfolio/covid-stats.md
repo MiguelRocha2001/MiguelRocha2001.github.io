@@ -1,6 +1,6 @@
 ---
 title: "Covid Stats"
-excerpt: "Insert here a descrioption."
+excerpt: "Check various Covid-19 statistics around the world with the Covid Stats Android application."
 header:
   image: /assets/images/fusion-medical-animation-EAgGqOiDDMg-unsplash.jpg
   teaser: assets/images/fusion-medical-animation-EAgGqOiDDMg-unsplash.jpg

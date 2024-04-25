@@ -1,6 +1,6 @@
 ---
 title: "Wach A Movie"
-excerpt: "Insert here a descrioption."
+excerpt: "A personal project aimed at developing an Android application for streaming movies and series."
 header:
   image: /assets/images/wp4016022.webp
   teaser: assets/images/wp4016022.webp

@@ -27,9 +27,12 @@ description: ""
 author:
   name: "Miguel Rocha"
   avatar: "/assets/images/logo.jpg"
-  bio: "Why are we still here? Just to suffer? Every night, I can feel my leg... And my arm... even my fingers... The body I've lost... the comrades I've lost... won't stop hurting... It's like they're all still there. You feel it, too, don't you? I'm gonna make them give back our past!"
+  bio: "I won't scatter your sorrow to the heartless sea. I will always be with you. Plant your roots in me. I won't see you end as ashes. You're all diamonds."
   location: "Lisbon, Portugal"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "miguelasrocha1@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MiguelRocha2001"
@@ -77,7 +80,7 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
-  # _portfolio
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -88,6 +91,7 @@ defaults:
       comments: true
       share: true
       related: true
+  # _collection
   - scope:
       path: ""
       type: portfolio
@@ -96,3 +100,14 @@ defaults:
       author_profile: false
       share: true
       read_time: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

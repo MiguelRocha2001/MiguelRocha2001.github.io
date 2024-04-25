@@ -1,6 +1,6 @@
 ---
 title: "HDSLedger"
-excerpt: "Insert here a descrioption."
+excerpt: "HDS Serenity Ledger is a simplified permissioned (closed membership) blockchain system with high dependability guarantees."
 header:
   image: /assets/images/1_iqoLCgRmHhJ2N66efFN7Zw.png
   teaser: assets/images/1_iqoLCgRmHhJ2N66efFN7Zw.png
