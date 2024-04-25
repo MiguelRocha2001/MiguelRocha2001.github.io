@@ -7,12 +7,26 @@ header:
 sidebar:
   - title: "Responsibilities"
     text: "Developer, Designer"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+  - title: "Advisor"
+    text: "Rui Duarte, rui.duarte@isel.pt"
 ---
 
 This project consists in the creation of a smart and automated system, using IoT technology, to enhance theefficiency, accuracy and safety in the pH industrial control process. By incorporating sensors, we can detectproblems before they lead to costly downtime or safety hazards.The sensors collect data relative to the neutralization system’s environment. All this data is sent to a centralserver, and through real-time data analysis, it identifies if the neutralization system is not working optimally.
 {: style="text-align: justify;"}
+
+- [Final report](https://github.com/MiguelRocha2001/PS-Monitor-IoT-System/blob/main/Documentation/Report/IoT_System_for_pH_Monitoring_in_Industrial_Facilities.pdf)
+
+## System Overview
+
+The system is composed of the following components:
+  - IoT Sensor Node: collects the data from the neutralization device;
+  - Backend: receives and processes the data emitted by all the registered MCUs;
+  - Web Application: allows the user to register devices and analyse device-collected data.
+
+<figure>
+  <img src="/assets/images/System architecture.png" alt="System Overview">
+  <figcaption style="font-style: italic;">System Overview Diagram</figcaption>
+</figure>
 
 **Notice:** This project was evaluated as 18/20.
 {: .notice--success}

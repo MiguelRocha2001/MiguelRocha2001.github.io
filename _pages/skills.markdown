@@ -35,3 +35,6 @@ Cloud Computing / RESTful APIs / Computer Security / Algorithms and Data Structu
 
 # AI
 Genetic Algorithms / Neural Networks / AI search algorithms
+
+# Deep Learning
+Matplotplotlib / PyTorch / Natural Language Processing

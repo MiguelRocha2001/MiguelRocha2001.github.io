@@ -22,7 +22,7 @@ tagline: "Shcools that I have studied"
 
 <figure>
   <img src="/assets/images/ist.jpg" alt="this is a placeholder image">
-  <figcaption>Instituto Superior Técnico, Universidade de Lisboa</figcaption>
+  <figcaption style="font-style: italic;">Instituto Superior Técnico, Universidade de Lisboa, Lisbon, Portugal</figcaption>
 </figure>
 
 # Instituto Superior de Engenharia de Lisboa, IPL [ 09/2019 – 18/07/2023 ]
@@ -35,7 +35,7 @@ tagline: "Shcools that I have studied"
 
 <figure>
   <img src="/assets/images/isel_01_960.jpg" alt="this is a placeholder image">
-  <figcaption>Instituto Superior de Engenharia de Lisboa</figcaption>
+  <figcaption style="font-style: italic;">Instituto Superior de Engenharia de Lisboa, Lisbon, Portugal</figcaption>
 </figure>
 
 # Escola Secundária António Damásio
@@ -48,5 +48,5 @@ tagline: "Shcools that I have studied"
 
 <figure>
   <img src="/assets/images/EscolaAntonioDamasio_DE_10_2013-037.jpg" alt="this is a placeholder image">
-  <figcaption>Escola Secundária António Damásio</figcaption>
+  <figcaption style="font-style: italic;">Escola Secundária António Damásio, Lisbon, Portugal</figcaption>
 </figure>

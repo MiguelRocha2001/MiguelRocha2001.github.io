@@ -12,15 +12,15 @@ header:
 tagline: "See my professional experience"
 ---
 
-# Accenture
+# Summer Internship at Accenture
 
-- Subject: Software developer intern
+- Occupation: Software Developer Intern
 - Date: 07/2023 - 08/2023
-- City: Lisboa 
-- Country: Portugal 
+- City: Lisbon
+- Country: Portugal
 - [Website](https://www.accenture.com/pt-pt)
 
 <figure>
-  <img src="/assets/images/Accenture-Conheca-Portugal-Hero-6974x4717.webp" alt="this is a placeholder image">
-  <figcaption>Accenture, Lisbon premisses</figcaption>
+  <img src="/assets/images/Accenture-Plc_banner-01.jpg" alt="this is a placeholder image">
+  <figcaption style="font-style: italic;">Accenture Banner</figcaption>
 </figure>

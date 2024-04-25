@@ -26,6 +26,6 @@ Whith this Android application, you can check various Covid-19 statistics around
 I tried to published the app on the Google play, but, unfortunately, it was rejected, since only governamental entities could publish such apps.
 {: style="text-align: justify;"}
 
-{% include gallery caption="Covid Stats Android application." %}
+{% include gallery caption="<em>Covid Stats Android application</em>" %}
 
 [See on github](https://github.com/MiguelRocha2001/CovidStats){: .btn .btn--info}
