@@ -1,5 +1,5 @@
 ---
-title: "PS-Monitor-IoT-System"
+title: "Monitor-IoT-System"
 excerpt: "This project consists of creating a smart and automated system using IoT technology to enhance efficiency, accuracy, and safety in the pH industrial control process."
 header:
   image: /assets/images/o-que-e-hardware-ram-1-.jpg
@@ -13,7 +13,7 @@ sidebar:
     text: "Rui Duarte, rui.duarte@isel.pt"
 ---
 
-This project consists in the creation of a smart and automated system, using IoT technology, to enhance theefficiency, accuracy and safety in the pH industrial control process. By incorporating sensors, we can detectproblems before they lead to costly downtime or safety hazards.The sensors collect data relative to the neutralization system’s environment. All this data is sent to a centralserver, and through real-time data analysis, it identifies if the neutralization system is not working optimally.
+This project consists in the creation of a smart and automated system, using IoT technology, to enhance the efficiency, accuracy and safety in the pH industrial control process. By incorporating sensors, we can detect problems before they lead to costly downtime or safety hazards. The sensors collect data relative to the neutralization system’s environment. All this data is sent to a backend server, and through real-time data analysis, it identifies if the neutralization system is not working optimally. Finally, the data is made available to the user through a web application, where the user can see the data collected by the sensors and analyse it in a graphical format.
 {: style="text-align: justify;"}
 
 - [Final report](https://github.com/MiguelRocha2001/PS-Monitor-IoT-System/blob/main/Documentation/Report/IoT_System_for_pH_Monitoring_in_Industrial_Facilities.pdf)
