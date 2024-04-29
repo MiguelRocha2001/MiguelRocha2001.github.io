@@ -9,7 +9,13 @@ sidebar:
     text: "Developer, Designer"
 ---
 ## 1. Introduction
-The project aims to design and implement DADTKV, a distributed transactional key-value store. It's developed as part of the Master's programs in Computer Science at Instituto Superior Técnico. DADTKV facilitates the management of data objects residing in server memory, allowing concurrent access by transactional programs running on different machines.
+This project implements DADTKV, a distributed transactional key-value store. It was developed as part of the Master's programs in Computer Science at Instituto Superior Técnico, for the [Design and Implementation of Distributed Applications](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/disciplina-curricular/1971853845332821) course.
+{: style="text-align: justify;"}
+
+DADTKV facilitates the management of data objects residing in server memory, allowing concurrent access by transactional programs running on different machines.
+{: style="text-align: justify;"}
+
+In the consensus layer, the system uses the Paxos algorithm to ensure that all nodes agree on the order of transactions, thereby, guaranteeing data consistency.
 {: style="text-align: justify;"}
 
 ## 2. Architecture
@@ -32,9 +38,9 @@ The DADTKV client library provides a set of methods for clients to interact with
 {: style="text-align: justify;"}
 
 ## 4. Implementation
-DADTKV is implemented using C# and gRPC for remote communication. Key features of the implementation include:
+DADTKV was implemented using C# and gRPC for remote communication. Key features of the implementation include:
 - **Fault Tolerance:** Mechanisms are in place to ensure system resilience, allowing the system to continue making progress even if a minority of servers fail.
-- **Time Slots:** The system's state is updated in a sequence of time slots, allowing for fault tolerance testing and system monitoring.
+- **Time Slots:** The system's state is updated in a sequence of time slots. Each time slot is associated with a set of transactions that are executed concurrently.
 {: style="text-align: justify;"}
 
 ## 5. Documentation
