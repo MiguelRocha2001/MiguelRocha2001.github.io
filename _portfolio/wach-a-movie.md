@@ -16,7 +16,8 @@ This is a personal project that I am still developing. The idea is to create an 
 The app uses the [YTS API](https://yts.mx/api) to retreive the movies and series information, including magnet torrent links, and [TorrentStream-Android](https://github.com/se-bastiaan/TorrentStream-Android), a torrent streamer library for Android based on libtorrent4j.
 {: style="text-align: justify;"}
 
+{: .notice--warning}
+**Pictures** will be added soon!
+
 **Notice:** This project is still in development.
 {: .notice--warning}
-
-[See on github](https://github.com/MiguelRocha2001/Watch-A-Movie){: .btn .btn--info}
