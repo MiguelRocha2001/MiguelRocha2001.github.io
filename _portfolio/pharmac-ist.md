@@ -9,15 +9,21 @@ sidebar:
     text: "Developer, Designer"
     image: /assets/images/illustration-of-a-pharmacy-health-pharmacy-logo-free-vector.jpg
     image_alt: "logo"
+gallery:
+  - url: /assets/images/1719004379049.jpg
+    image_path: assets/images/1719004379049.jpg
+    alt: "Map with registered pharmacies"
 ---
 
-Welcome to PharmacIST, your go-to mobile application for efficient pharmacy management. Developed by Miguel Rocha and Lucas Pinto, PharmacIST is designed to streamline the pharmacy experience for both users and pharmacy owners.
+Welcome to PharmacIST, your go-to mobile application for efficient pharmacy management. Developed by [Miguel Rocha](https://github.com/MiguelRocha2001) and [Lucas Pinto](https://github.com/luckspt), PharmacIST is designed to streamline the pharmacy experience for both users and pharmacy owners.
 
 **Key Features:**
 
 - **Find Pharmacies and Medicines:** Easily locate pharmacies and search for specific medicines in your vicinity.
 - **Pharmacy Information:** Get detailed information about pharmacies, including location on a map, available stocks, and more.
 - **Medicine Reservation:** Reserve medicines for future purchase, ensuring you never miss out on important medications.
+
+{% include gallery caption="<em>PharmacIST Android application</em>" %}
 
 **Additional Components:**
 
@@ -37,7 +43,9 @@ In addition to the core features, PharmacIST offers a range of optional componen
 
 **Join Us in Revolutionizing Pharmacy Management with PharmacIST!**
 
-Check the project description [here](/assets/documents/23-24-CMU-project.pdf).
+**Documentation:**
+- Check the project description [here](/assets/documents/23-24-CMU-project.pdf);
+- The final report can be found [here](/assets/documents/CMU_Report.pdf).
 
-**Notice:** This project is still being developed and is not yet available for public use. Stay tuned for updates!
-{: .notice--warning}
+**Useful links:**
+- Source code [here]("https://github.com/luckspt/cmu-pharmacist").
