@@ -21,6 +21,27 @@ tagline: "See my professional experience"
 }
 </style>
 
+# Research Fellowship at the University of Lisbon - Promotion of Success and Reduction of Dropout in Higher Education
+
+**Key Responsibilities:**
+
+- Developing a web app for study monitoring and daily activity management.
+- Creating a "21 Days to Self-Efficacy" web app designed around daily challenges to foster academic and personal growth.
+
+**Details:**
+
+- 📚 Project: Promotion of Success and Reduction of Dropout in Higher Education
+- 📅 Duration: 6 months, starting August 2024
+- 💼 Position: Research Fellow
+- 🔧 Focus: Development of web applications to enhance academic and personal success for students
+- 🌍 Funded by: DGES through FEEI and FSE
+
+📎 More details [here](/assets/documents/aviso_07_bi_2024_informatica_-_equipa_a2_signed.pdf)
+{: .notice--info}
+
+<br>
+<br>
+
 # Summer Internship at Accenture
 
 - **Occupation:** Software Developer Intern

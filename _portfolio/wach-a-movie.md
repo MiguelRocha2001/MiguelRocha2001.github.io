@@ -1,5 +1,5 @@
 ---
-title: "Wach A Movie"
+title: "Watch A Movie"
 excerpt: "A personal project aimed at developing an Android application for streaming movies and series."
 header:
   image: /assets/images/wp4016022.webp
